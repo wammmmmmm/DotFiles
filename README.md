@@ -1,6 +1,6 @@
-# Wammo's Hyprland DotFiles
+# Wammo's adhd DotFiles
 
-![](ScreenShot.png)
+![](screenshot.png)
 
 First attempt at ricing.
 
