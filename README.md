@@ -4,6 +4,8 @@
 
 First attempt at ricing.
 
+The blue color is the same as the default lighting on an Acer PHN16-72
+
 ## REQUIREMENTS:
 
 + hyprpaper
