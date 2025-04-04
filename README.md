@@ -1,6 +1,6 @@
 # Wammo's Hyprland DotFiles
 
-![]()
+![](ScreenShot.png)
 
 First attempt at ricing.
 
