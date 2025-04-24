@@ -30,5 +30,5 @@ sudo pacman -S hyprpaper & waybar & hypridle & swaync & poweralertd & btop & pul
 **Reflector Command for Fast Downloads**
 
 ```bash
-reflector --latest 20 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+sudo reflector --latest 20 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
 ```
