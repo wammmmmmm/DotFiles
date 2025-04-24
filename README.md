@@ -26,3 +26,9 @@ The blue color is the same as the default lighting on an Acer PHN16-72
 ```bash
 sudo pacman -S hyprpaper & waybar & hypridle & swaync & poweralertd & btop & pulsemixer & vis & peaclock & arttime & superfile & mpv
 ```
+
+**Reflector Command for Fast Downloads**
+
+```bash
+reflector --latest 20 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+```
