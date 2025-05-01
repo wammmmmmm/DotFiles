@@ -24,7 +24,7 @@ The blue color is the same as the default lighting on an Acer PHN16-72
 **AIO command for Arch Linux**
 
 ```bash
-sudo pacman -S hyprpaper & waybar & hypridle & swaync & poweralertd & btop & pulsemixer & vis & peaclock & arttime & superfile & mpv
+sudo pacman -S hyprpaper waybar hypridle swaync poweralertd btop pulsemixer vis peaclock arttime superfile mpv
 ```
 
 **Reflector Command for Fast Downloads**
